@@ -1,0 +1,9 @@
+{
+  "commands": {
+    "install": "npm install",
+    "build": "",
+    "start": "node index.js"
+  },
+  "health": { "path": "/" },
+  "deploy": { "rootDirectory": "./" }
+}
